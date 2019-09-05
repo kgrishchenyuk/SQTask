@@ -1,0 +1,6 @@
+development:
+  adapter: postgresql
+  host: localhost
+  database: test
+  username: postgres
+  password: 12345
